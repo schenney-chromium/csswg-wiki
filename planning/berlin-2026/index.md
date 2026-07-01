@@ -39,34 +39,23 @@ Flag issues with [Agenda+ F2F](https://github.com/w3c/csswg-drafts/issues?q=is%3
 | --- | --- | --- | --- | --- | --- |
 | Alan Stearns | | | | omni | |
 | Alison Maher | 3 Aug | 7 Aug | Hotel nhow | gluten free | |
-| Andreu Botella | | | | none | |
-| Bramus | 3 Aug | 7 Aug | TBD | none | Planes, yes |
 | Chris Lilley | | | | low-carb (diabetic) | |
 | Elika | 31 July | 7 Aug | Hotel Indigo | low-gluten | N/A |
-| Emilio | TBD | 7 Aug | TBD | None | TBD |
 | Florian Rivoal | 3 Aug | 7 Aug | Homaris East Side | omnivore | N/A |
-| John Jansen | 3 Aug | 7 Aug | Hotel nHow | None | Flying out Friday morning |
 | Kevin Babbitt | 3 Aug | 7 Aug | Hotel nhow | None | |
 | Lea Verou | | | | omnivore | |
-| Oriol Brufau | 3 Aug | 7 Aug | | Strong dislike of cheese and shellfish | |
 | Rachel Andrew |3 Aug | 6 Aug | Hilton Berlin| [pescatarian w. allergies](https://gist.github.com/rachelandrew/7dc7f20632c9d2b5d4e906c2778bb4d9) | |
-| Roman Komarov | 3 Aug | 7 Aug | TBD | none | Dates approximate
-| Sammy Gill | 2 Aug | 7 Aug | Hotel Indigo | | |
 | Sarah Inman | | | | | Google observer |
-| Sebastian Zartner | 3 Aug | 7 Aug | | | |
-| Vitor Roriz | 3 Aug | 7 Aug | Hotel Indigo | | |
-| Yehonatan Daniv | 3 Aug | 7 Aug | TBD | none | |
+| Andreu Botella | | | | none | |
 
 ### Virtual Participants
 
 Please list your availability in Berlin time (morning/afternoon/all or specific time ranges). See [Time Converter](https://www.worldtimebuddy.com/?qm=1&lid=5391959,2158177,1850147,293397,2988507,2643743,5128581&h=5391959&date=2025-1-29&sln=8-16&hf=1)
 
-| Name | Timezone | PST Availability | Other Notes |
-| --- | --- | --- | --- |
-| Noam Rosenthal | BST | All | |
+| Name | Timezone | CEST Availability | Other Notes |
+| Stephen Chenney | US Eastern | 14:00-19:00 | |
 
 ### Regrets
 
-| Name | Other Notes |
-| --- | --- |
-| Josh Tumath | Might be able to join calls for specific issues |
+| Name |
+| --- |
